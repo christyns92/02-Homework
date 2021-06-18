@@ -7,7 +7,7 @@ The purpose of this assignment was to check for errors in the code, as well as, 
 The website itself is very user-friendly and easy to navigate. You can click on any one of the categories on the nav bar and it automatically scrolls you down to where that information is on the page.
 
 ## Changes:
-1. Fixing broken link in html on line 29 by adding in the ID. Now you can successfully click on the link and it takes you to that section of the website 
+1. Fixed broken link in html on line 29 by adding in the ID. Now you can successfully click on the link and it takes you to that section of the website 
 
 Before ![Screenshot (58)](https://user-images.githubusercontent.com/81654878/122478358-df160500-cf8e-11eb-895e-5eed17d412fd.png)
 
